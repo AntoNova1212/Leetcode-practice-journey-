@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0008-string-to-integer-atoi) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
