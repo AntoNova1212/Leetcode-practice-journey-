@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AntoNova1212/Leetcode-practice-journey-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
